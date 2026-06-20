@@ -39,7 +39,7 @@ npm run build
 ```
 ## **Live demo**
 
-https://harika655.github.io/
+https://harika655.github.io/instabuy/
 
 ## Author
 
