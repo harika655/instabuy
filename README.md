@@ -40,6 +40,7 @@ npm run build
 ## **Live demo**
 
 https://harika655.github.io/instabuy/
+https://lucky-treacle-4b95a7.netlify.app/
 
 ## Author
 
