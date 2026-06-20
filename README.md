@@ -1,16 +1,49 @@
-# React + Vite
+# Instabuy 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Instabuy is a modern e-commerce web application built using React.js, Vite, and Bootstrap. The application provides a seamless shopping experience with user authentication, product browsing, search functionality, and cart management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* User Signup & Login
+* Logout Functionality
+* Product Listing
+* Product Search
+* Product Details Page
+* Add to Cart
+* Remove from Cart
+* Cart Badge Counter
+* Persistent Cart Storage
+* Responsive Design
+* Interactive UI Animations
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* React Router DOM
+* Bootstrap
+* JavaScript (ES6+)
+* Vite
+* Local Storage
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+## **Live demo**
+
+https://harika655.github.io/
+
+## Author
+
+**Harika T**
+
+
+Frontend Developer
